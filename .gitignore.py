@@ -7,3 +7,4 @@ def mostrar_menu():
     print("5 - Remover tarefa")
     print("6 - Sair")
     return input("Escolha uma opção: ")
+nJDVZBjh anmbvjhbjh
